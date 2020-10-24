@@ -13,7 +13,7 @@
         <th>Judul Film</th>
         <th>Genre Film</th>
         <th class="text-center">Tahun</th>
-        <th>Action</th></tr>
+        <!-- <th colspan="2" >Action</th></tr> -->
         </thead>
 
 <tbody>
